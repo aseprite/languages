@@ -4,6 +4,7 @@ This is a list of translations created by Aseprite users and
 distributed like extensions (pull requests are welcome):
 
 * [Japanese](http://wikiwiki.jp/aseprite/?%C6%FC%CB%DC%B8%EC%B2%BD%A5%D5%A5%A1%A5%A4%A5%EB%A4%CE%A5%C0%A5%A6%A5%F3%A5%ED%A1%BC%A5%C9)
+* [Korean](http://eternalworld.tistory.com/531)
 
 ## How to change Aseprite language?
 
