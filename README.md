@@ -6,6 +6,7 @@ distributed as extensions (pull requests are welcome):
 * [Japanese](http://wikiwiki.jp/aseprite/?%C6%FC%CB%DC%B8%EC%B2%BD%A5%D5%A5%A1%A5%A4%A5%EB%A4%CE%A5%C0%A5%A6%A5%F3%A5%ED%A1%BC%A5%C9)
 * [Korean](https://imbada.github.io/Aseprite-Korean/) ([Korean alternative](http://eternalworld.tistory.com/531))
 * [Simplified Chinese](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949)
+* [Tradisional Chinese](https://github.com/chongx1an/aseprite-TradisionalChineseExtension)
 
 ## How to change Aseprite language?
 
