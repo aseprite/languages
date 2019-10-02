@@ -9,6 +9,7 @@ distributed as extensions (pull requests are welcome):
 * [Russian](https://github.com/xMrVizzy/Aseprite-Russian)
 * [Simplified Chinese](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949)
 * [Traditional Chinese](https://github.com/chongx1an/aseprite-TraditionalChineseExtension)
+* [French](https://github.com/farvardin/aseprite_french) _(work in progress, not finished yet)_
 
 ## How to change Aseprite language?
 
