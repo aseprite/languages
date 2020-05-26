@@ -4,6 +4,7 @@ This is a list of translations created by Aseprite users and
 distributed as extensions (pull requests are welcome):
 
 * [French](https://github.com/chamalowmoelleux/Aseprite-French-Translation) ([French alternative](https://github.com/farvardin/aseprite_french))
+* [Italian](https://github.com/FabianoIlCapo/aseprite_italian)
 * [Japanese](http://wikiwiki.jp/aseprite/?%C6%FC%CB%DC%B8%EC%B2%BD%A5%D5%A5%A1%A5%A4%A5%EB%A4%CE%A5%C0%A5%A6%A5%F3%A5%ED%A1%BC%A5%C9)
 * [Korean](https://imbada.github.io/Aseprite-Korean/) ([Korean alternative](http://eternalworld.tistory.com/531))
 * [Portuguese](https://github.com/Inky1003/aseprite-em-portugues)
