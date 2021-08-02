@@ -5,7 +5,7 @@ distributed as extensions (pull requests are welcome):
 
 * Chinese
   * [Simplified Chinese](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949)
-  * [Traditional Chinese](https://github.com/chongx1an/aseprite-TraditionalChineseExtension)
+  * [Traditional Chinese](https://github.com/chongx1an/aseprite-TraditionalChineseExtension) ([Traditional Chinese & font (v1.2.28)](https://github.com/SiderealArt/Aseprite-Traditional-Chinese-Translation))
 * [French](https://github.com/chamalowmoelleux/Aseprite-French-Translation) ([French alternative](https://github.com/farvardin/aseprite_french))
 * [German](https://github.com/dotheflopboy/Aseprite-German-Translation)
 * [Italian](https://github.com/FabianoIlCapo/aseprite_italian)
