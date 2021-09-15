@@ -11,7 +11,7 @@ distributed as extensions (pull requests are welcome):
 * [Italian](https://github.com/FabianoIlCapo/aseprite_italian)
 * [Japanese](http://wikiwiki.jp/aseprite/?%C6%FC%CB%DC%B8%EC%B2%BD%A5%D5%A5%A1%A5%A4%A5%EB%A4%CE%A5%C0%A5%A6%A5%F3%A5%ED%A1%BC%A5%C9)
 * [Korean](https://imbada.github.io/Aseprite-Korean/) ([Korean alternative](http://eternalworld.tistory.com/531))
-* [Portuguese](https://github.com/Inky1003/aseprite-em-portugues)
+* [Portuguese](https://github.com/puddiCria/aseprite-pt-br) ([Portuguese alternative](https://github.com/Inky1003/aseprite-em-portugues))
 * [Russian](https://github.com/lufog/aseprite-language-russian)
 * [Spanish](https://github.com/Latirus/aseprite-spanish)
 
