@@ -13,7 +13,7 @@ distributed as extensions (pull requests are welcome):
 * [Korean](https://imbada.github.io/Aseprite-Korean/) ([Korean alternative](http://eternalworld.tistory.com/531))
 * [Portuguese](https://github.com/puddiCria/aseprite-pt-br) ([Portuguese alternative](https://github.com/Inky1003/aseprite-em-portugues))
 * [Russian](https://github.com/lufog/aseprite-language-russian)
-* [Spanish](https://github.com/Latirus/aseprite-spanish)
+* [Spanish](https://github.com/raxdraws/aseprite-spanish)
 
 ## How to change Aseprite language?
 
