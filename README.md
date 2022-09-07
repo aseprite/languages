@@ -14,6 +14,7 @@ distributed as extensions (pull requests are welcome):
 * [Portuguese](https://github.com/puddiCria/aseprite-pt-br) ([Portuguese alternative](https://github.com/Inky1003/aseprite-em-portugues))
 * [Russian](https://github.com/lufog/aseprite-language-russian)
 * [Spanish](https://github.com/raxdraws/aseprite-spanish)
+* [Ukrainian](https://github.com/def4alt/aseprite-ukrainian)
 
 ## How to change Aseprite language?
 
