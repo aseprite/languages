@@ -8,6 +8,10 @@ in the following versions of Aseprite:
 <img src="https://hosted.weblate.org/widget/aseprite/aseprite/multi-auto.svg" alt="Translation status" />
 </a>
 
+## Contribute
+
+We welcome contributions from the community to help us achieve comprehensive language support. To contribute, visit our [Weblate project](https://hosted.weblate.org/projects/aseprite/#languages) and participate in the translation process. Your efforts play a crucial role in making Aseprite more accessible and user-friendly for a global audience.
+
 ## Language Extensions
 
 For Aseprite v1.3.2 and older versions, here a list of translations
