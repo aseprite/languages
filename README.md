@@ -1,7 +1,17 @@
-# Languages
+# Translation Project
 
-This is a list of translations created by Aseprite users and
-distributed as extensions (pull requests are welcome):
+Thanks to the help of several contributors, we're trying to create
+official translations coordinate in a Weblate project to be released
+in the following versions of Aseprite:
+
+<a href="https://hosted.weblate.org/engage/aseprite/">
+<img src="https://hosted.weblate.org/widget/aseprite/aseprite/multi-auto.svg" alt="Translation status" />
+</a>
+
+## Language Extensions
+
+For Aseprite v1.3.2 and older versions, here a list of translations
+created by Aseprite users and distributed as extensions:
 
 * Chinese
   * [Simplified Chinese](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949)
