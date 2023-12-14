@@ -27,16 +27,21 @@ created by Aseprite users and distributed as extensions:
 - 🇰🇷 [Korean](https://imbada.github.io/Aseprite-Korean/) ([Korean alternative](http://eternalworld.tistory.com/531))
 - 🇵🇹 [Portuguese](https://github.com/puddiCria/aseprite-pt-br) ([Portuguese alternative](https://github.com/Inky1003/aseprite-em-portugues))
 - 🇷🇺 [Russian](https://github.com/lufog/aseprite-language-russian)
-- 🇪🇸 [Spanish](https://github.com/raxdraws/aseprite-spanish)
+- 🇪🇸 Spanish:
+  - [Spanish (Latin America)](https://github.com/raxdraws/aseprite-spanish)
+  - [Spanish (Spain)](https://github.com/Dolvem/aseprite-spanish-translation)
 - 🇺🇦 [Ukrainian](https://github.com/Steenuga/aseprite-language-ukrainian)
 - 🇲🇹 [Maltese](https://github.com/DimensionalSpace/Maltese-Aseprite) (work in progress)
 
 ## How to change Aseprite language?
 
-Since Aseprite v1.2.7.3 you can:
+Since [Aseprite v1.2.7.3-beta10](https://www.aseprite.org/release-notes/12/#aseprite-v1-2-7-3) you can:
 
 1. Go to *Edit > Preferences > Extensions > Add Extension*
 2. Select the downloaded `.zip` of the language extension
 3. Then go to *Edit > Preferences > General > Language* and select the
    new language in the combobox
 4. Press the `OK` button.
+
+For more details, you can check out the official documentation to
+create new translations as extensions: [docs/extensions](https://www.aseprite.org/docs/extensions/)
