@@ -27,7 +27,7 @@ created by Aseprite users and distributed as extensions:
 - 🇰🇷 [Korean](https://imbada.github.io/Aseprite-Korean/) ([Korean alternative](http://eternalworld.tistory.com/531))
 - 🇵🇹 [Portuguese](https://github.com/puddiCria/aseprite-pt-br) ([Portuguese alternative](https://github.com/Inky1003/aseprite-em-portugues))
 - 🇷🇺 [Russian](https://github.com/lufog/aseprite-language-russian)
-- 🇪🇸 Spanish:
+- 🇪🇸 Spanish
   - 🇪🇸 [Spanish (Latin America)](https://github.com/raxdraws/aseprite-spanish)
   - 🇪🇸 [Spanish (Spain)](https://github.com/Dolvem/aseprite-spanish-translation)
 - 🇺🇦 [Ukrainian](https://github.com/Steenuga/aseprite-language-ukrainian)
