@@ -29,6 +29,7 @@ created by Aseprite users and distributed as extensions:
 - 🇷🇺 [Russian](https://github.com/lufog/aseprite-language-russian)
 - 🇪🇸 [Spanish](https://github.com/raxdraws/aseprite-spanish)
 - 🇺🇦 [Ukrainian](https://github.com/Steenuga/aseprite-language-ukrainian)
+- 🇲🇹 [Maltese](https://github.com/DimensionalSpace/Maltese-Aseprite) (work in progress)
 
 ## How to change Aseprite language?
 
