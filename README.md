@@ -18,7 +18,7 @@ For Aseprite v1.3.2 and older versions, here a list of translations
 created by Aseprite users and distributed as extensions:
 
 - 🇨🇳 Chinese
-- - 🇨🇳 [Simplified Chinese](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949)
+- - 🇨🇳 [Simplified Chinese](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension)([Simplified Chinese (1.3-rc1)](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949))
 - - 🇨🇳 [Traditional Chinese](https://github.com/chongx1an/aseprite-TraditionalChineseExtension) ([Traditional Chinese & font (v1.2.28)](https://github.com/SiderealArt/Aseprite-Traditional-Chinese-Translation))
 - 🇫🇷 [French](https://github.com/realBoubli/Aseprite-French-Translation) ([French alternative](https://github.com/farvardin/aseprite_french))
 - 🇩🇪 [German](https://github.com/inxomnyaa/Aseprite-German-Translation) ([German alternative](https://github.com/dotheflopboy/Aseprite-German-Translation))
